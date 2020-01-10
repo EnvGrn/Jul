@@ -1,0 +1,40 @@
+#header{
+padding: 7.5px 30px;
+background-color: #166CA5;
+color: white;
+top: 0px;
+left: 0px;
+text-align: center;
+font-family: 'Cinzel', serif;
+}
+
+p::first-letter {
+  font-size: 200%;
+  color: red;
+}
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#giftlist{
+  background-color: #166CA5;
+
+}
+
+#text{
+  background-color: #166CA5;
+  color: white;
+}
+
+#text, h1{
+  text-align: center;
+}
